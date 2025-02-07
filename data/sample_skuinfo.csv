@@ -1,0 +1,31 @@
+sku_id,sku_vendor,sku_category,sku_description,price_per_item_usd,date_sku_created,date_sku_updated
+70132,6cf4a,Five ,Five Star Frame,25,2024-01-02,2025-01-30
+70133,cc92b,Deskt,Desktop Album,11,2023-12-28,2025-01-28
+70134,bc01d,Wall ,Wall Mount Print,54,2023-12-29,2025-01-27
+70135,eaa57,Metal,Metal Print,15,2023-12-28,2025-01-29
+70136,c72a4,Coffe,Coffee Mug,34,2024-01-01,2025-01-30
+70137,37b7c,Wobbl,Wobble Wand v15,34,2023-12-29,2025-01-29
+70138,52a63,Frazz,Frazzler Buddy v16,31,2023-12-29,2025-01-30
+70139,42386,Fizzy,Fizzy Whizbang v17,24,2023-12-30,2025-01-30
+70140,752af,Plonk,Plonk Fumble v18,35,2023-12-30,2025-01-30
+70141,090ff,Snack,Snacker Quacker v19,47,2023-12-29,2025-01-27
+70142,6cf4a,Five ,Five Star Dazzler v20,55,2023-12-28,2025-01-26
+70143,706f7,Squis,Squishinator Extra v21,35,2023-12-28,2025-01-23
+70144,09875,Quiet,Quiet Booster v22,12,2023-12-30,2025-01-29
+70145,809b7,Quick,Quick Glider v23,12,2024-01-01,2025-01-26
+70146,090ff,Snack,Snack Mug v24,23,2023-12-28,2025-01-30
+70147,9914a,Light,Lightup Wand v25,18,2023-12-29,2025-01-28
+70148,807ff,Gizmo,Gizmo Manager v26,23,2024-01-04,2025-01-28
+70149,6a3a5,Swoos,Swoosh Collector v27,10,2024-01-01,2025-01-28
+70150,f04af,Plank,Plankly Piercer v28,37,2023-12-29,2025-01-29
+70151,b63b4,Aweso,Awesome Product v0,7,2023-12-29,2025-01-30
+70152,ee414,Giggl,Giggle Goggles v1,9,2023-12-28,2025-01-30
+70153,ee414,Giggl,Giggle Goggles v2,20,2023-12-28,2025-01-30
+70154,706f7,Squis,Squishinator v3,32,2023-12-30,2025-01-30
+70155,a7f9a,Boing,Boing Booster v4,11,2023-12-29,2025-01-30
+70156,7bca9,Doodl,Doodle Dazzler v5,35,2023-12-28,2025-01-24
+70157,7f146,Wiggl,Wiggly Whatsit v6,42,2024-01-02,2025-01-28
+70158,706f7,Squis,Squishinator v7,21,2024-01-01,2025-01-29
+70159,b7a75,Seaso,Seasonal Favorite v8,19,2024-01-04,2025-01-25
+70160,86b0b,Fizzl,Fizzle Gizmo v9,12,2023-12-28,2025-01-28
+70161,,Fizzl,Fizzle Gizmo v10,14,2024-09-21,2025-01-31
