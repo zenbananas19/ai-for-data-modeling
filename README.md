@@ -1,5 +1,5 @@
 # ai-for-data-modeling
-Prompt examples and test data to demonstrate how to accelerate tabular data modeling projects with AI.
+Prompt examples, Python scripts, and test data to demonstrate how to accelerate tabular data modeling projects with AI.
 
 This repo supports the content in the talk:
 "How SmugMug increased data modeling productivity with Amazon Q Developer"
